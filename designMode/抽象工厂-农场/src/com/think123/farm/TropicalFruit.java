@@ -1,0 +1,14 @@
+package com.think123.farm;
+
+public class TropicalFruit implements  Fruit {
+    private String name;
+    public TropicalFruit(String name) {
+        this.name = name;
+    }
+    public String getName() {
+        return "Northern"+name;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+}
