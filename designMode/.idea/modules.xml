@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XPfile/XPfile.iml" filepath="$PROJECT_DIR$/XPfile/XPfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型-单例模式/创建型-单例模式.iml" filepath="$PROJECT_DIR$/创建型-单例模式/创建型-单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型-原型模式/创建型-原型模式.iml" filepath="$PROJECT_DIR$/创建型-原型模式/创建型-原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型-多例模式/创建型-多例模式.iml" filepath="$PROJECT_DIR$/创建型-多例模式/创建型-多例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型-工厂方法模式/创建型-工厂方法模式.iml" filepath="$PROJECT_DIR$/创建型-工厂方法模式/创建型-工厂方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型-建造者模式/创建型-建造者模式.iml" filepath="$PROJECT_DIR$/创建型-建造者模式/创建型-建造者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型-抽象工厂模式/创建型-抽象工厂模式.iml" filepath="$PROJECT_DIR$/创建型-抽象工厂模式/创建型-抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型-简单工厂模式/创建型-简单工厂模式.iml" filepath="$PROJECT_DIR$/创建型-简单工厂模式/创建型-简单工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单例模式-连接数据库/单例模式-连接数据库.iml" filepath="$PROJECT_DIR$/单例模式-连接数据库/单例模式-连接数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/抽象工厂-农场/抽象工厂-农场.iml" filepath="$PROJECT_DIR$/抽象工厂-农场/抽象工厂-农场.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型-合成模式/结构型-合成模式.iml" filepath="$PROJECT_DIR$/结构型-合成模式/结构型-合成模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型-缺省适配器模式/结构型-缺省适配器模式.iml" filepath="$PROJECT_DIR$/结构型-缺省适配器模式/结构型-缺省适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型-适配器模式/结构型-适配器模式.iml" filepath="$PROJECT_DIR$/结构型-适配器模式/结构型-适配器模式.iml" />
+    </modules>
+  </component>
+</project>
