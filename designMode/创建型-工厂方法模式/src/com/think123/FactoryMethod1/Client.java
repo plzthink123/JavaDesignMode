@@ -9,5 +9,6 @@ public class Client {
         //强制类型转换
         file.export(data);
         System.out.println("file = " + file);
+        System.out.println(123);
     }
 }
