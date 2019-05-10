@@ -8,5 +8,6 @@ public class Client {
         ExportFile file = exportFactory.factory("standard");
         //强制类型转换
         file.export(data);
+        System.out.println("file = " + file);
     }
 }
